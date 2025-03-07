@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Akash tumi BOKA*****!!");
+    alert("Susmita I LOVE YOU!!");
 }
