@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Be careful I can hack your device!!.");
+    alert("Your device has been hacked!!.");
 }
