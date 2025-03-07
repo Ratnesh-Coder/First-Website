@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Susmita I LOVE YOU!!");
+    alert("Your device has been HACKED!!");
 }
