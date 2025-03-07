@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Your device has been hacked!!.");
+    alert("Your device has been hacked!!");
 }
